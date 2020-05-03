@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Salon
+comment1.params=Nom\ pu
+comment1.target=Salon(java.lang.String,\ Puerta)
+comment2.params=nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment4.params=c
+comment4.target=void\ setPuerta(Puerta)
+comment5.params=
+comment5.target=Puerta\ getPuerta()
+numComments=6

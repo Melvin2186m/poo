@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=Codigo
+comment0.target=Cerrojo(java.lang.String)
+comment1.params=codigo
+comment1.target=void\ setcodigo(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getcodigo()
+numComments=3

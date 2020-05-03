@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Edificio
+comment1.params=nombre
+comment1.target=Edificio(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Edificio\r\n
+comment2.params=s
+comment2.target=void\ agregarSalon(Salon)
+comment3.params=
+comment3.target=java.util.Vector\ getVector()
+comment4.params=n
+comment4.target=Salon\ regresarsalonpos(int)
+comment5.params=
+comment5.target=int\ regresardimensionaulas()
+comment6.params=
+comment6.target=void\ cerrarTodosSalones()
+numComments=7
